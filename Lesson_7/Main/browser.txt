@@ -1,0 +1,28 @@
+
+клиент-серверные приложения (архитектура)
+
+запрос (request)
+ответ (response)
+
+
+URL (URI) = 
+
+https://svetofor.ru/
+http://127.0.0.1:5500/Lesson_7/
+
+HTML - Hyper Text ...
+HTTP - Hyper Text Transfer Protocol
+HTTPS - Secured
+
+Unified Resource Locator (Identifier)
+
+
+parsing - преобразование текста в программный объект
+
+Parsing HTML -> DOM (Document Object Model)
+
+rendering - отрисовка
+
+V8 - JS интерпретатор
+
+
