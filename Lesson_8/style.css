@@ -1,0 +1,35 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #111;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hover-board {
+  width: 30%;
+  height: 60%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.cell {
+    background-color: #1d1d1d;
+	box-shadow: 0 0 2px #000;
+	margin: 2px;
+	width: 20px;
+	height: 20px;
+	transition: 2s ease;
+}
+
+.cell:hover {
+	transition-duration: 0s;
+}
